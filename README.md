@@ -1,7 +1,7 @@
 <!-- Title -->
 <h3 align="center">
         <samp>Hey There!👋, I am
-                <b><a target="_blank" href="https://github.com/ivce-xue">PG</a></b>
+                <b><a target="_blank" href="https://github.com/ivce-xue">Pengo</a></b>
         </samp>
 </h3>
 <br>
